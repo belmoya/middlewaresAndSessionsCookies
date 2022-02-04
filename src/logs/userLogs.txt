@@ -15,3 +15,9 @@ El usuario ingresó en:/
 El usuario ingresó en:/admin?user=ADa
 El usuario ingresó en:/admin?user=Ada
 El usuario ingresó en:/admin?user=Greta
+El usuario ingresó en:/login
+El usuario ingresó en:/login
+El usuario ingresó en:/login
+El usuario ingresó en:/login
+El usuario ingresó en:/login
+El usuario ingresó en:/login

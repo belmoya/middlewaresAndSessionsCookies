@@ -5,6 +5,7 @@ const express = require('express');
 const logger = require('morgan');
 const path = require('path');
 
+
 const logMiddleware = require('./middlewares/logs')
 
 // ************ express() - (don't touch) ************
@@ -29,7 +30,7 @@ app.set('views', './src/views'); // Seteo de la ubicación de la carpeta "views"
 // ************ Route System require and use() ************
 const mainRouter = require('./routes/main');
 app.use('/', mainRouter);
-
+app.use('/login', mainRouter);
 
 
 // ************ DON'T TOUCH FROM HERE ************
